@@ -51,19 +51,19 @@ O Porsche 992 GT3 RS é um carro de alta performance desenvolvido para pista, co
 
 ### 🚗 Home
 
-![Home](./img6.png)
+![Home](./img7.png)
 
 ### ⚙️ Detalhes
 
-![Detalhes](./img3.png)
+![Detalhes](./img5.png)
 
 ### 🎯 Performance
 
-![Performance](./img2.png)
+![Performance](./img4.png)
 
 ### 🏁 Final
 
-![Final](./img4.png)
+![Final](./img3.png)
 
 ---
 
